@@ -1,0 +1,22 @@
+.modo-claro {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.modo-claro .navbar {
+    background-color: #e3f2fd;
+}
+
+.modo-claro .table-primary {
+    background-color: #d1ecf1;
+}
+
+.modo-oscuro {
+    background-color: #212529;
+    color: #f8f9fa;
+}
+
+.modo-oscuro .table-primary {
+    background-color: #495057;
+    color: #f8f9fa;
+}
